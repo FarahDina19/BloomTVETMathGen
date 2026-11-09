@@ -4,7 +4,7 @@ This build consolidates the requested BloomTVET MathGen application around the p
 
 ## Fixed in this build
 
-1. **50 genuinely unique questions per combination** — the deterministic bank now generates 50 distinct question texts for each of 26 subtopics × 4 Bloom levels × 3 difficulties. Automated audit: 15,600/15,600 unique within their required combination; zero uniqueness failures.
+1. **50 genuinely unique questions per combination** — the deterministic bank now generates 50 distinct question texts for each of 27 subtopics × 4 Bloom levels × 3 difficulties. The audit figures below were recorded for an earlier 26-subtopic build (15,600 records) and have not been re-run against the current 27-subtopic data; the current validator (`npm run validate:questions`) confirms 16,200 of 16,200 records, with 0 duplicate texts.
 2. **Stronger TVET contextualisation** — Medium/Hard bank questions now integrate field-specific vocational objects/tasks rather than only appending a generic context phrase.
 3. **Question-specific visuals** — added algebra tiles, formula-rearrangement maps, simultaneous-equation balance visuals and process-flow visuals, in addition to geometry, trigonometry, number line, Argand and polar diagrams.
 4. **PDF visual workflow** — Export PDF now generates a direct `.pdf` file with question text, visual, answer, 10-mark scheme, misconceptions and research evidence. Browser Print remains available separately.

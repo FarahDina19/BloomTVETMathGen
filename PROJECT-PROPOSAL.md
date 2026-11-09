@@ -110,7 +110,7 @@ BloomCoach AI supports two roles:
 
 ## 8. Key Features
 
-- 26 mathematics subtopics
+- 27 mathematics subtopics
 - Bloom C1 to C4 support
 - Easy, Medium and Hard difficulty
 - 14 TVET clusters

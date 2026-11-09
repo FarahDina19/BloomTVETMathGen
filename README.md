@@ -1,6 +1,6 @@
 # BloomTVET MathGen
 
-[![CI/CD](https://github.com/dina85hai/BloomTVETMathGen/actions/workflows/ci.yml/badge.svg)](https://github.com/dina85hai/BloomTVETMathGen/actions/workflows/ci.yml)
+[![CI/CD](https://github.com/FarahDina19/BloomTVETMathGen/actions/workflows/ci.yml/badge.svg)](https://github.com/FarahDina19/BloomTVETMathGen/actions/workflows/ci.yml)
 
 **Active framework:** C1-C4 only • Easy/Medium/Hard • Subjective-only • 27 subtopics • 50 unique questions per combination • 16,200 built-in records • 14 TVET clusters • research evidence • visual support.
 

@@ -62,7 +62,7 @@ BloomTVET MathGen combines two connected modules:
 
 ## Slide 6: Key Features
 
-- 26 mathematics subtopics
+- 27 mathematics subtopics
 - 14 TVET clusters
 - Bloom C1 to C4
 - Easy, Medium and Hard difficulty
