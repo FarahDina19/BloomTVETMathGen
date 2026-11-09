@@ -293,7 +293,7 @@ export const TVET_FIELD_MISCONCEPTION_OVERLAYS = [
     "nameEN": "Electrical",
     "safeContexts": [
       "cable length",
-      "symbolic circuit relationships",
+      "circuit load totals",
       "installation quantities",
       "signal phase context",
       "maintenance costing"

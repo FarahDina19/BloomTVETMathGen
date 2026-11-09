@@ -5,7 +5,7 @@
 - C1 Remember, C2 Understand, C3 Apply, C4 Analyze only.
 - Easy, Medium and Hard difficulty are independent of Bloom level.
 - All active questions are subjective / constructed-response.
-- 26 mathematics subtopics × 4 Bloom levels × 3 difficulties × 50 bank questions = 15,600 bank capacity.
+- 27 mathematics subtopics × 4 Bloom levels × 3 difficulties × 50 bank questions = 16,200 bank capacity.
 - 14 TVET clusters and English / Bahasa Melayu / Bilingual output.
 
 ## Generate

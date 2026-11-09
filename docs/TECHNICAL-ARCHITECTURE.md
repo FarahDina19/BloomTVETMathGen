@@ -13,7 +13,7 @@
 
 - `components/QuestionGeneratorApp.tsx` — consolidated UI/workflow
 - `components/QuestionVisual.tsx` — visual renderer
-- `src/data/syllabusSubtopics.ts` — 26 mathematics subtopics
+- `src/data/syllabusSubtopics.ts` — 27 mathematics subtopics
 - `src/data/blueprints.ts` — 312 active C1–C4 blueprints
 - `src/data/subjectiveQuestionBank.ts` — deterministic 50-bank engine
 - `src/data/misconceptions.ts` — misconception registry
